@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Itzik\\Desktop\\work\\Mosesbox-fit\\sever\\Mosesbox-fit\\Mosesbox-fit\\Mosesbox-fit.csproj",
-        "projectName": "Mosesbox-fit",
+        "projectName": "mosesbox-fit-server",
         "projectPath": "C:\\Users\\Itzik\\Desktop\\work\\Mosesbox-fit\\sever\\Mosesbox-fit\\Mosesbox-fit\\Mosesbox-fit.csproj",
         "packagesPath": "C:\\Users\\Itzik\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Itzik\\Desktop\\work\\Mosesbox-fit\\sever\\Mosesbox-fit\\Mosesbox-fit\\obj\\",

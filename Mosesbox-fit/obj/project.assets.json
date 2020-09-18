@@ -5079,9 +5079,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Itzik\\Desktop\\work\\Mosesbox-fit\\sever\\Mosesbox-fit\\Mosesbox-fit\\Mosesbox-fit.csproj",
-      "projectName": "Mosesbox-fit",
-      "projectPath": "C:\\Users\\Itzik\\Desktop\\work\\Mosesbox-fit\\sever\\Mosesbox-fit\\Mosesbox-fit\\Mosesbox-fit.csproj",
+      "projectUniqueName": "C:\\Users\\Itzik\\Desktop\\work\\Mosesbox-fit\\sever\\Mosesbox-fit\\Mosesbox-fit\\mosesbox-fit-server.csproj",
+      "projectName": "mosesbox-fit-server",
+      "projectPath": "C:\\Users\\Itzik\\Desktop\\work\\Mosesbox-fit\\sever\\Mosesbox-fit\\Mosesbox-fit\\mosesbox-fit-server.csproj",
       "packagesPath": "C:\\Users\\Itzik\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Itzik\\Desktop\\work\\Mosesbox-fit\\sever\\Mosesbox-fit\\Mosesbox-fit\\obj\\",
       "projectStyle": "PackageReference",

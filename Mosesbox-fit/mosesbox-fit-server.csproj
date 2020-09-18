@@ -2,9 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Mosesbox_fit</RootNamespace>
+    <RootNamespace>mosesbox_fit_server</RootNamespace>
     <UserSecretsId>b153622d-9be5-41ce-ac1a-2cd82f64d3cf</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <AssemblyName>mosesbox-fit-server</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
